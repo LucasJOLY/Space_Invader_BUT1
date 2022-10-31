@@ -1,0 +1,21 @@
+# Configuration des commandes
+DROITE : d
+GAUCHE : q
+TIRER : s
+
+# Personnalisation des Invaders
+TROOPER : V
+RANGER : Y
+TANK : W
+TORPILLE : v
+BALLE : *
+
+# Configuration du vaisseau
+APPARENCE : A
+MISSILE : |
+
+# Autres Paramètres
+DIFFICULTE : difficile
+
+
+

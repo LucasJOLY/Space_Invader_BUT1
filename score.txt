@@ -1,0 +1,10 @@
+0,lucas
+300,lucas
+3100,lucas
+1100,lj
+4200,lj
+0,sqdds
+200,azeaze
+0,azeae
+0,zer
+6900,ez
